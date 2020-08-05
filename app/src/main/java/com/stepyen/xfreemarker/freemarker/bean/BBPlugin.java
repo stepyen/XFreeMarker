@@ -46,6 +46,7 @@ public class BBPlugin extends IPlugin {
         pathDatas.add(new PathBean(main_path, false));
         pathDatas.add(new PathBean(java_path, false));
         pathDatas.add(new PathBean(java_path + "/activity/", false));
+        pathDatas.add(new PathBean(java_path + "/request/", false));
         pathDatas.add(new PathBean(java_path + "/statistics/", false));
         pathDatas.add(new PathBean(java_path + "/statistics/"+name+"Statistics.kt","Statistics.kt.ftl", true));
         pathDatas.add(new PathBean(java_path + "/core/", false));
