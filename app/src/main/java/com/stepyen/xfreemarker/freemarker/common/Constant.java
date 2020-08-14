@@ -12,7 +12,7 @@ public class Constant {
     public static final String TEMPLATES_PATH = "/Users/yefujin/Desktop/AndroidProject/XFreeMarker/FreeMarkerTemplates/";
 
     /**
-     * 插件生成地址
+     * 插件文件生成地址
      */
     public static final String OUTPUT_PATH = "/Users/yefujin/Desktop/pluginOutput/";
 

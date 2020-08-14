@@ -1,4 +1,4 @@
-package com.babybus.plugin.${name_lower_case}.statistics
+package com.babybus.plugin.${name_lower_case}.analysis
 
 /**
  * date：${date}
@@ -8,7 +8,7 @@ package com.babybus.plugin.${name_lower_case}.statistics
  * 事件格式：key_插件名_事件名
  *
  */
-class ${name}Statistics {
+class ${name}Analysis {
     companion object{
 
     }

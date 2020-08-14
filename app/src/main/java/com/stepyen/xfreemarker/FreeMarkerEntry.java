@@ -1,4 +1,4 @@
-package com.stepyen.xfreemarker.freemarker;
+package com.stepyen.xfreemarker;
 
 import com.stepyen.xfreemarker.freemarker.manager.APPluginManager;
 import com.stepyen.xfreemarker.freemarker.manager.BBPluginManager;
@@ -23,7 +23,7 @@ public class FreeMarkerEntry {
 
     public static void main(String[] args) {
 
-        String pluginName = "Mintegral";
+        String pluginName = "WelcomeInsert";
 
         // 创建 BB module
         new BBPluginManager().create(pluginName);
